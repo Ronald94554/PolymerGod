@@ -21,6 +21,7 @@ just deploy optimism base
 4. Go to /artifacts/contracts/BridgeSDK.sol/BridgeSDK.json file to copy ABI
 5. Go to /polymer-god-dapp/src/constant.js replace `bridgeAbi` with ABI from setp 4
 ```
+cd polymer-god-dapp
 npm i
 npm run serve
 ```
