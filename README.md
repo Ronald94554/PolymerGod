@@ -28,7 +28,7 @@ npm run serve
 
 ## Proof of testnet interaction
 
-After following the steps above you should have interacted with the testnet. You can check this at the [IBC Explorer](https://sepolia.polymer.zone/)).
+After following the steps above you should have interacted with the testnet. You can check this at the [IBC Explorer](https://sepolia.polymer.zone/).
 
 Here's the data of our application:
 
