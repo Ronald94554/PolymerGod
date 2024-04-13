@@ -8,6 +8,8 @@
 
 Our project aims to build a native token bridge between L2s. Currently our bridge will focus on Eth, with scalability to other ERC tokens. We will using token mapping and token mint/lock mechanisms
 
+## Frontend Preview
+![UI](https://github.com/Ronald94554/PolymerGod/blob/main/UI.png)
 
 ## Steps to reproduce
 1. Contract dependens install, compile and deploy
